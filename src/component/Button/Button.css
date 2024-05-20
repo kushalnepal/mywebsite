@@ -1,0 +1,23 @@
+.m-t-15{
+    margin-top: 15px;
+   width: auto;
+   background-color: crimson;
+    font-size: 14px;
+    padding: 6px 15px;
+    margin-right: 0px;
+     align-items: center;
+   
+}
+/*
+
+background: crimson; 
+border: 2px solid crimson;
+
+*/
+/* .m-t-15:hover{
+    color:crimson;
+    background: none;
+} */
+.danger{
+    color:red;
+}
